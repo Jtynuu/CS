@@ -1,3 +1,1 @@
-# C#
-
-Repository CS tempat belajar Bahasa Pemrograman C#.
+## Dokumen Sintaks C# oleh Jatayu Nymphaea
